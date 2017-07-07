@@ -1,7 +1,7 @@
-#Thu Jul 06 23:17:15 KST 2017
-base.0=C\:\\Users\\Kevin\\AndroidStudioProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1f38e00a040aaca28335833d37fcbb5071059205
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Kevin\\AndroidStudioProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_febadb294c80b39550c4a24d80903f47173016b1\\classes.dex
-base.1=C\:\\Users\\Kevin\\AndroidStudioProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_febadb294c80b39550c4a24d80903f47173016b1
-file.0=C\:\\Users\\Kevin\\AndroidStudioProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1f38e00a040aaca28335833d37fcbb5071059205\\classes.dex
+#Fri Jul 07 14:07:31 KST 2017
+base.0=C\:\\Users\\Kevin\\AndroidStudioProjects\\BlueSample\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_294f7e3d02547efebb237535d56a0c93f268aa8e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Kevin\\AndroidStudioProjects\\BlueSample\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6a187973f448336aa3258f202ab6972ce32262a1\\classes.dex
+base.1=C\:\\Users\\Kevin\\AndroidStudioProjects\\BlueSample\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6a187973f448336aa3258f202ab6972ce32262a1
+file.0=C\:\\Users\\Kevin\\AndroidStudioProjects\\BlueSample\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_294f7e3d02547efebb237535d56a0c93f268aa8e\\classes.dex

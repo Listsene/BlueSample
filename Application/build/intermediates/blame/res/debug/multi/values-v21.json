@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Kevin\\AndroidStudioProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "outputFile": "C:\\Users\\Kevin\\AndroidStudioProjects\\BlueSample\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -2023,14 +2023,14 @@
                     "endOffset": 20527
                 },
                 "from": {
-                    "file": "C:\\Users\\Kevin\\AndroidStudioProjects\\BluetoothLeGatt\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "file": "C:\\Users\\Kevin\\AndroidStudioProjects\\BlueSample\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 677,
+                        "startOffset": 697,
                         "endLine": 21,
                         "endColumn": 12,
-                        "endOffset": 753
+                        "endOffset": 774
                     }
                 }
             },
